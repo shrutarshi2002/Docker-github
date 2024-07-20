@@ -1,0 +1,20 @@
+Mkdir -> create folder\
+touch -> create file
+cd -> change directory
+ls -> list files
+cat > filename -> write in file
+pwd -> show the the present directory
+mv filename newfilename -> change file name
+rm -> remove a file
+clear -> clear terminal
+echo -> print text terminal\
+less -> show the 
+cat filename -> read file txt
+whoami -> the user
+uname -> to know the operating system
+tar -> extract file txt to another
+head -> read a file from top
+tail -> read a file text from bottom
+diff -> difference in two files
+cmp -> to check if the two file are identical
+cp filename ./clonefilename -> to make a file clone
